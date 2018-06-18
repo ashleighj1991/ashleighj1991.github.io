@@ -1,8 +1,8 @@
 var local = {};
-local.avatar = "User Avatar Image input";
+local.avatar = "https://image.flaticon.com/icons/png/128/149/149071.png";
 
 var remote = {};
-remote.avatar = "Chatbot avatar image input";
+remote.avatar = "https://developers.viber.com/images/apps/apiai-icon.png";
 
 
 var accessToken = "a8db2fc593d44c548b67af6c596d7dc8";
