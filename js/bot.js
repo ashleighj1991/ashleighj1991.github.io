@@ -5,7 +5,7 @@ var remote = {};
 remote.avatar = "Chatbot avatar image input";
 
 
-var accessToken = "########################";
+var accessToken = "a8db2fc593d44c548b67af6c596d7dc8";
 var baseUrl = "https://api.api.ai/v1/";
 
 function formatTime(date) {
