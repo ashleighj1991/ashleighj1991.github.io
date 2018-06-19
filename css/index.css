@@ -1,0 +1,26 @@
+body {
+    padding-top: 80px;
+}
+
+.glyphicon { margin-right:10px; }
+.panel-body { padding:0px; }
+.panel-body table tr td { padding-left: 15px }
+.panel-body .table {margin-bottom: 0px; }
+
+.logo {
+  padding-left: 20px; 
+  padding-top: 15px;
+  width: 10%
+}
+
+.navbar-header {
+    text-align: left;
+    background-color: #ffd900;
+    height: 50px;
+    width: 100%;
+}
+
+.left {
+  left: 5px;
+  bottom: 10px;
+}
