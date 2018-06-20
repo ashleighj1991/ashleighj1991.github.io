@@ -2,7 +2,7 @@ var local = {};
 local.avatar = "https://image.flaticon.com/icons/png/128/149/149071.png";
 
 var remote = {};
-remote.avatar = "https://developers.viber.com/images/apps/apiai-icon.png";
+remote.avatar = "https://ashleighj1991.github.io/images/Ash.png";
 
 
 var accessToken = "a8db2fc593d44c548b67af6c596d7dc8";
