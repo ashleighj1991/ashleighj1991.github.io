@@ -302,7 +302,7 @@
 
 body {
   background-size: cover;
-  height: 1000px;
+  height: auto;
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
 }
@@ -313,4 +313,16 @@ input {
 
 strong {
   font-weight: 600;
+}
+
+  .logo {
+  padding-left: 20px; 
+  padding-top: 15px;
+  width: 10%
+}
+.navbar-header {
+    text-align: left;
+    background-color: #816EEB;
+    height: 50px;
+    width: 100%;
 }
