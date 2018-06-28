@@ -301,7 +301,6 @@
 }
 
 body {
-  background: url("https://images.unsplash.com/photo-1464823063530-08f10ed1a2dd?dpr=1&auto=compress,format&fit=crop&w=1199&h=799&q=80&cs=tinysrgb&crop=&bg=") no-repeat center center;
   background-size: cover;
   height: 1000px;
   font-family: 'Open Sans', sans-serif;
