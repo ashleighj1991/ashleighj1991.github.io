@@ -1,7 +1,7 @@
 /*   Chatbot Assistant Prototype using dialogflow
  */
 
-const accessToken = '32b97368f168447cb5017b64713a9b23'
+const accessToken = 'a8db2fc593d44c548b67af6c596d7dc8'
 const baseUrl = 'https://api.api.ai/api/query?v=20150910'
 const sessionId = '1234567890'
 const loadingMarkups = `<span class='loader'><span class='loader__dot'></span><span class='loader__dot'></span><span class='loader__dot'></span></span>`
